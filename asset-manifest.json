@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Journey-Site/static/css/main.8db0146f.chunk.css",
-    "main.js": "/Journey-Site/static/js/main.1a881848.chunk.js",
-    "main.js.map": "/Journey-Site/static/js/main.1a881848.chunk.js.map",
-    "runtime-main.js": "/Journey-Site/static/js/runtime-main.91d8ef5c.js",
-    "runtime-main.js.map": "/Journey-Site/static/js/runtime-main.91d8ef5c.js.map",
-    "static/js/2.cbc9515d.chunk.js": "/Journey-Site/static/js/2.cbc9515d.chunk.js",
-    "static/js/2.cbc9515d.chunk.js.map": "/Journey-Site/static/js/2.cbc9515d.chunk.js.map",
-    "index.html": "/Journey-Site/index.html",
-    "precache-manifest.78891f54876cf46c79ee0368dc9b7ff3.js": "/Journey-Site/precache-manifest.78891f54876cf46c79ee0368dc9b7ff3.js",
-    "service-worker.js": "/Journey-Site/service-worker.js",
-    "static/css/main.8db0146f.chunk.css.map": "/Journey-Site/static/css/main.8db0146f.chunk.css.map",
-    "static/js/2.cbc9515d.chunk.js.LICENSE.txt": "/Journey-Site/static/js/2.cbc9515d.chunk.js.LICENSE.txt",
-    "static/media/Gooey.svg": "/Journey-Site/static/media/Gooey.2cdb76e5.svg",
-    "static/media/logo.png": "/Journey-Site/static/media/logo.7857cab8.png",
-    "static/media/index.css": "/Journey-Site/static/media/ss_6.2d3cbffb.jpg"
+    "main.css": "/AdventureSite/static/css/main.850112f0.chunk.css",
+    "main.js": "/AdventureSite/static/js/main.09695b13.chunk.js",
+    "main.js.map": "/AdventureSite/static/js/main.09695b13.chunk.js.map",
+    "runtime-main.js": "/AdventureSite/static/js/runtime-main.9435a2cb.js",
+    "runtime-main.js.map": "/AdventureSite/static/js/runtime-main.9435a2cb.js.map",
+    "static/js/2.cbc9515d.chunk.js": "/AdventureSite/static/js/2.cbc9515d.chunk.js",
+    "static/js/2.cbc9515d.chunk.js.map": "/AdventureSite/static/js/2.cbc9515d.chunk.js.map",
+    "index.html": "/AdventureSite/index.html",
+    "precache-manifest.98387b67523e4a6859653777618ef560.js": "/AdventureSite/precache-manifest.98387b67523e4a6859653777618ef560.js",
+    "service-worker.js": "/AdventureSite/service-worker.js",
+    "static/css/main.850112f0.chunk.css.map": "/AdventureSite/static/css/main.850112f0.chunk.css.map",
+    "static/js/2.cbc9515d.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.cbc9515d.chunk.js.LICENSE.txt",
+    "static/media/Gooey.svg": "/AdventureSite/static/media/Gooey.2cdb76e5.svg",
+    "static/media/logo.png": "/AdventureSite/static/media/logo.7857cab8.png",
+    "static/media/index.css": "/AdventureSite/static/media/ss_6.2d3cbffb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.91d8ef5c.js",
+    "static/js/runtime-main.9435a2cb.js",
     "static/js/2.cbc9515d.chunk.js",
-    "static/css/main.8db0146f.chunk.css",
-    "static/js/main.1a881848.chunk.js"
+    "static/css/main.850112f0.chunk.css",
+    "static/js/main.09695b13.chunk.js"
   ]
 }
