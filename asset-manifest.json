@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/AdventureSite/static/css/main.000b3873.chunk.css",
-    "main.js": "/AdventureSite/static/js/main.35f3f489.chunk.js",
-    "main.js.map": "/AdventureSite/static/js/main.35f3f489.chunk.js.map",
+    "main.js": "/AdventureSite/static/js/main.f5fe5404.chunk.js",
+    "main.js.map": "/AdventureSite/static/js/main.f5fe5404.chunk.js.map",
     "runtime-main.js": "/AdventureSite/static/js/runtime-main.870d55b4.js",
     "runtime-main.js.map": "/AdventureSite/static/js/runtime-main.870d55b4.js.map",
-    "static/js/2.379dbdc7.chunk.js": "/AdventureSite/static/js/2.379dbdc7.chunk.js",
-    "static/js/2.379dbdc7.chunk.js.map": "/AdventureSite/static/js/2.379dbdc7.chunk.js.map",
+    "static/js/2.24af4e06.chunk.js": "/AdventureSite/static/js/2.24af4e06.chunk.js",
+    "static/js/2.24af4e06.chunk.js.map": "/AdventureSite/static/js/2.24af4e06.chunk.js.map",
     "index.html": "/AdventureSite/index.html",
-    "precache-manifest.1e215e591aaff77617567b84f89b81f4.js": "/AdventureSite/precache-manifest.1e215e591aaff77617567b84f89b81f4.js",
+    "precache-manifest.91c7707b873523ade405130218352327.js": "/AdventureSite/precache-manifest.91c7707b873523ade405130218352327.js",
     "service-worker.js": "/AdventureSite/service-worker.js",
     "static/css/main.000b3873.chunk.css.map": "/AdventureSite/static/css/main.000b3873.chunk.css.map",
-    "static/js/2.379dbdc7.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.379dbdc7.chunk.js.LICENSE.txt",
+    "static/js/2.24af4e06.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.24af4e06.chunk.js.LICENSE.txt",
     "static/media/gooey.png": "/AdventureSite/static/media/gooey.fbc6997a.png",
     "static/media/logo.png": "/AdventureSite/static/media/logo.7857cab8.png",
     "static/media/index.css": "/AdventureSite/static/media/ss_6.2d3cbffb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.870d55b4.js",
-    "static/js/2.379dbdc7.chunk.js",
+    "static/js/2.24af4e06.chunk.js",
     "static/css/main.000b3873.chunk.css",
-    "static/js/main.35f3f489.chunk.js"
+    "static/js/main.f5fe5404.chunk.js"
   ]
 }
