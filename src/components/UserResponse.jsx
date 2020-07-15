@@ -1,11 +1,10 @@
 import React from 'react';
-import '../styles/index.css';
 
 //Each UserResponse
 export function UserResponse({ object, index, setChild, next }) {
   return (
     <center>
-      <div>
+      <div className={"fade-in-to-right"}>
         <button
           className='response'
           onClick={() => {
