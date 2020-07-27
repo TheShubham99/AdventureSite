@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/AdventureSite/static/css/main.e83a5734.chunk.css",
-    "main.js": "/AdventureSite/static/js/main.00e14d0a.chunk.js",
-    "main.js.map": "/AdventureSite/static/js/main.00e14d0a.chunk.js.map",
+    "main.css": "/AdventureSite/static/css/main.2642752b.chunk.css",
+    "main.js": "/AdventureSite/static/js/main.e07dec27.chunk.js",
+    "main.js.map": "/AdventureSite/static/js/main.e07dec27.chunk.js.map",
     "runtime-main.js": "/AdventureSite/static/js/runtime-main.9435a2cb.js",
     "runtime-main.js.map": "/AdventureSite/static/js/runtime-main.9435a2cb.js.map",
-    "static/js/2.7d6deea6.chunk.js": "/AdventureSite/static/js/2.7d6deea6.chunk.js",
-    "static/js/2.7d6deea6.chunk.js.map": "/AdventureSite/static/js/2.7d6deea6.chunk.js.map",
+    "static/js/2.b02a476d.chunk.js": "/AdventureSite/static/js/2.b02a476d.chunk.js",
+    "static/js/2.b02a476d.chunk.js.map": "/AdventureSite/static/js/2.b02a476d.chunk.js.map",
     "index.html": "/AdventureSite/index.html",
-    "precache-manifest.2f8d415d2740cec08463d645c41a6679.js": "/AdventureSite/precache-manifest.2f8d415d2740cec08463d645c41a6679.js",
+    "precache-manifest.6eebfd9fdb3b5f7da067c4807e42c6c3.js": "/AdventureSite/precache-manifest.6eebfd9fdb3b5f7da067c4807e42c6c3.js",
     "service-worker.js": "/AdventureSite/service-worker.js",
-    "static/css/main.e83a5734.chunk.css.map": "/AdventureSite/static/css/main.e83a5734.chunk.css.map",
-    "static/js/2.7d6deea6.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.7d6deea6.chunk.js.LICENSE.txt",
+    "static/css/main.2642752b.chunk.css.map": "/AdventureSite/static/css/main.2642752b.chunk.css.map",
+    "static/js/2.b02a476d.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.b02a476d.chunk.js.LICENSE.txt",
+    "static/media/back.png": "/AdventureSite/static/media/back.6eeb0fec.png",
     "static/media/gooey.png": "/AdventureSite/static/media/gooey.fbc6997a.png",
     "static/media/logo.png": "/AdventureSite/static/media/logo.7857cab8.png",
     "static/media/index.scss": "/AdventureSite/static/media/ss_6.2d3cbffb.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9435a2cb.js",
-    "static/js/2.7d6deea6.chunk.js",
-    "static/css/main.e83a5734.chunk.css",
-    "static/js/main.00e14d0a.chunk.js"
+    "static/js/2.b02a476d.chunk.js",
+    "static/css/main.2642752b.chunk.css",
+    "static/js/main.e07dec27.chunk.js"
   ]
 }
