@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AdventureSite/static/css/main.2642752b.chunk.css",
-    "main.js": "/AdventureSite/static/js/main.08322efe.chunk.js",
-    "main.js.map": "/AdventureSite/static/js/main.08322efe.chunk.js.map",
+    "main.css": "/AdventureSite/static/css/main.bda3dce2.chunk.css",
+    "main.js": "/AdventureSite/static/js/main.c8c01ffd.chunk.js",
+    "main.js.map": "/AdventureSite/static/js/main.c8c01ffd.chunk.js.map",
     "runtime-main.js": "/AdventureSite/static/js/runtime-main.9435a2cb.js",
     "runtime-main.js.map": "/AdventureSite/static/js/runtime-main.9435a2cb.js.map",
     "static/js/2.b02a476d.chunk.js": "/AdventureSite/static/js/2.b02a476d.chunk.js",
     "static/js/2.b02a476d.chunk.js.map": "/AdventureSite/static/js/2.b02a476d.chunk.js.map",
     "index.html": "/AdventureSite/index.html",
-    "precache-manifest.51e4d7abdb8b32afd3f38f612d54fb31.js": "/AdventureSite/precache-manifest.51e4d7abdb8b32afd3f38f612d54fb31.js",
+    "precache-manifest.fd89a2014e8edf063078ed93826d2a0a.js": "/AdventureSite/precache-manifest.fd89a2014e8edf063078ed93826d2a0a.js",
     "service-worker.js": "/AdventureSite/service-worker.js",
-    "static/css/main.2642752b.chunk.css.map": "/AdventureSite/static/css/main.2642752b.chunk.css.map",
+    "static/css/main.bda3dce2.chunk.css.map": "/AdventureSite/static/css/main.bda3dce2.chunk.css.map",
     "static/js/2.b02a476d.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.b02a476d.chunk.js.LICENSE.txt",
     "static/media/back.png": "/AdventureSite/static/media/back.6eeb0fec.png",
     "static/media/gooey.png": "/AdventureSite/static/media/gooey.fbc6997a.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.9435a2cb.js",
     "static/js/2.b02a476d.chunk.js",
-    "static/css/main.2642752b.chunk.css",
-    "static/js/main.08322efe.chunk.js"
+    "static/css/main.bda3dce2.chunk.css",
+    "static/js/main.c8c01ffd.chunk.js"
   ]
 }
