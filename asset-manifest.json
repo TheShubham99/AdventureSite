@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/AdventureSite/static/css/main.1ec67ef6.chunk.css",
-    "main.js": "/AdventureSite/static/js/main.c8c01ffd.chunk.js",
-    "main.js.map": "/AdventureSite/static/js/main.c8c01ffd.chunk.js.map",
+    "main.js": "/AdventureSite/static/js/main.5df38783.chunk.js",
+    "main.js.map": "/AdventureSite/static/js/main.5df38783.chunk.js.map",
     "runtime-main.js": "/AdventureSite/static/js/runtime-main.9435a2cb.js",
     "runtime-main.js.map": "/AdventureSite/static/js/runtime-main.9435a2cb.js.map",
-    "static/js/2.b02a476d.chunk.js": "/AdventureSite/static/js/2.b02a476d.chunk.js",
-    "static/js/2.b02a476d.chunk.js.map": "/AdventureSite/static/js/2.b02a476d.chunk.js.map",
+    "static/js/2.cf156534.chunk.js": "/AdventureSite/static/js/2.cf156534.chunk.js",
+    "static/js/2.cf156534.chunk.js.map": "/AdventureSite/static/js/2.cf156534.chunk.js.map",
     "index.html": "/AdventureSite/index.html",
-    "precache-manifest.d0807787f0500ec807a4b77852df28f4.js": "/AdventureSite/precache-manifest.d0807787f0500ec807a4b77852df28f4.js",
+    "precache-manifest.d354f451497936f4cca8ae48de95bd3d.js": "/AdventureSite/precache-manifest.d354f451497936f4cca8ae48de95bd3d.js",
     "service-worker.js": "/AdventureSite/service-worker.js",
     "static/css/main.1ec67ef6.chunk.css.map": "/AdventureSite/static/css/main.1ec67ef6.chunk.css.map",
-    "static/js/2.b02a476d.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.b02a476d.chunk.js.LICENSE.txt",
+    "static/js/2.cf156534.chunk.js.LICENSE.txt": "/AdventureSite/static/js/2.cf156534.chunk.js.LICENSE.txt",
     "static/media/back.png": "/AdventureSite/static/media/back.6eeb0fec.png",
     "static/media/gooey.png": "/AdventureSite/static/media/gooey.fbc6997a.png",
     "static/media/logo.png": "/AdventureSite/static/media/logo.7857cab8.png",
@@ -19,8 +19,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9435a2cb.js",
-    "static/js/2.b02a476d.chunk.js",
+    "static/js/2.cf156534.chunk.js",
     "static/css/main.1ec67ef6.chunk.css",
-    "static/js/main.c8c01ffd.chunk.js"
+    "static/js/main.5df38783.chunk.js"
   ]
 }
