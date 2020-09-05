@@ -5,7 +5,7 @@ body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
 }
-.bottom-nav {
+.gooey-bar {
   position: relative;
   display: flex;
   flex-direction: row;
@@ -42,6 +42,11 @@ body {
     display: none;
   }
 }
+.logo-parent {
+  margin: '0';
+  padding: '0';
+}
+
 .logo {
   max-width: 15em;
   padding: 0;
@@ -176,8 +181,8 @@ body {
 }
 
 .user-name {
-  text-align: center;
   font-size: 1em;
+  padding-bottom: 2em;
   color: $whitePrimary;
   font-family: 'Lucida Sans';
 }
@@ -200,6 +205,7 @@ body {
   }
   & .link {
     font-size: 0.8em;
+    text-decoration: none;
     color: $yellowPrimary;
   }
 }
@@ -333,11 +339,11 @@ body {
     overflow: auto;
   }
   .topnav {
+    button {
+      display: none;
+    }
     a {
-      &:not(:first-child) {
-        display: none;
-      }
-
+      display: none;
       /* Show logo in Mobile view */
       &:nth-child(5n) {
         display: block;

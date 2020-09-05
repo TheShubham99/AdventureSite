@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { Navbar } from './components/Navbar';
 import { UserMessageSection } from './components/UserMessageSection';
-import { BottomNavbar } from './components/BottomNavbar';
+import { GooeyBar } from './components/GooeyBar';
 import { Background } from './components/Background';
 import json from './data/pathMap';
 
 export default function App() {
-  console.log(json);
   //PathMap Object
   const [jsonPathMap, setjsonPathMap] = useState(json);
 
@@ -23,7 +22,7 @@ export default function App() {
     <React.Fragment>
       <Background>
         <Navbar />
-        <BottomNavbar gooeyMessageText={gooeyMessage} />
+        <GooeyBar gooeyMessageText={gooeyMessage} />
         <UserMessageSection
           jsonPathMap={jsonPathMap}
           setjsonPathMap={(json) => setjsonPathMap(json)}
